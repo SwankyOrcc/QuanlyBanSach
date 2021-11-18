@@ -40,6 +40,7 @@ namespace QuanlyBanSach
 		//	// truyền dữ liệu adapter tới table
 		//	adapter.Fill(table);
 		//	dgvSanPham.DataSource = table;
+
   //      }
 		public FormTinhTien()
 		{
